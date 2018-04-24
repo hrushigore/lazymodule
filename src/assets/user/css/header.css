@@ -1,0 +1,104 @@
+.ml-header-top.scroll-header,
+.header-style-3 .ml-header-top.scroll-header {
+  animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+  background: rgba(255, 255, 255, 1) none repeat scroll 0 0;
+  box-shadow: 0 1px 3px rgba(50, 50, 50, 0.4);
+  left: 0;
+  margin: 0 auto;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 999;
+}
+
+.ml-header-top.header-one.scroll-header {
+  background: rgba(255, 255, 255, 1) none repeat scroll 0 0 !important;
+}
+.header-style-4 .ml-header-top.scroll-header,
+.header-style-5 .ml-header-top.scroll-header,
+.header-style-6 .ml-header-top.scroll-header,
+.header-style-7 .ml-header-top.scroll-header,
+.header-style-8 .ml-header-top.scroll-header,
+.header-style-9 .ml-header-top.scroll-header,
+.header-style-10 .ml-header-top.scroll-header {
+  animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+  background: rgba(255, 255, 255, 1) none repeat scroll 0 0;
+  box-shadow: 0 1px 3px rgba(50, 50, 50, 0.4);
+  left: 0;
+  margin: 0 auto;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 999;
+}
+
+
+.header-style-6 .ml-header-top.scroll-header{
+  background: #4c8bf5;
+}
+.header-style-7 .ml-header-top.scroll-header,
+.header-style-9 .ml-header-top.scroll-header{
+  background: #5b5b5b;
+}
+.header-style-9 .ml-header-top.scroll-header hr.separator-1 {
+  margin: 0;
+  border: 1px solid transparent;
+}
+
+
+
+.header-style-3 .ml-header-top.scroll-header,
+.header-style-8 .ml-header-top.scroll-header,
+.header-style-10 .ml-header-top.scroll-header {
+  background: #f1f1f1;
+}
+
+.header-style-10 .ml-header-top.scroll-header ul.main-menu{
+  height: 60px;
+}
+.header-style-10 .ml-header-top.scroll-header .main-menu li.logo-images {
+  height: 52px;
+}
+
+
+.header-style-4 .ml-header-top.scroll-header .header-content {
+  background: #fff none repeat scroll 0 0 !important;
+}
+.header-style-5 .ml-header-top.scroll-header .header-content {
+  box-shadow: inherit !important;
+}
+
+.header-style-1 .ml-header-top.header-one.scroll-header .main-menu > li > a,
+.header-style-1 .ml-header-top.header-one.scroll-header .logo a,
+.header-style-3 .scroll-header .main-menu > li > a,
+.header-style-3 .scroll-header .logo,
+.header-style-4 .ml-header-top.scroll-header .logo,
+.header-style-7 .ml-header-top.scroll-header .logo a,
+.header-style-7 .ml-header-top.scroll-header .logo,
+.header-style-4 .ml-header-top.scroll-header .main-menu > li > a,
+.header-style-4 .ml-header-top.scroll-header .social-icon li a,
+.header-style-7 .ml-header-top.scroll-header .social-icon li a,
+.header-style-5 .ml-header-top.scroll-header .main-menu > li > a,
+.header-style-9 .ml-header-top.scroll-header .logo a,
+.header-style-9 .ml-header-top.scroll-header .main-menu > li > a {
+  height: 70px;
+  line-height: 70px;
+}
+
+.header-style-7 .ml-header-top.scroll-header ul.main-menu {
+  align-items: center;
+  height: 70px;
+  justify-content: center;
+}
+.header-style-8 .ml-header-top.scroll-header .logo {
+  height: 70px;
+  line-height: 63px;
+}
+.header-style-9 .ml-header-top.scroll-header .input-box {
+  margin-top: 14px;
+}
+
+
+
+
+
